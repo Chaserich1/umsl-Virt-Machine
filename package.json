@@ -1,5 +1,5 @@
 {
-  "name": "umsl-assembly-virtual-machine",
+  "name": "umsl-Virt-Machine",
   "main": "./lib/package",
   "version": "0.0.0",
   "description": "A short description of your package",
@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "package:toggle"
   },
-  "repository": "https://gitlab.com/505BadGroupName/assemblyvirtualmachinepackage",
+  "repository": "https://github.com/Chaserich1/umsl-Virt-Machine",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
