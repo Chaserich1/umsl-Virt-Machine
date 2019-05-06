@@ -2,7 +2,7 @@
   "name": "umsl-Virt-Machine",
   "main": "./lib/package",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Umsl Assembly Virtual Machine Package",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "package:toggle"
