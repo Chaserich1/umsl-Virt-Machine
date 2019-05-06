@@ -1,0 +1,26 @@
+{
+  "name": "umsl-assembly-virtual-machine",
+  "main": "./lib/package",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "package:toggle"
+  },
+  "repository": "https://gitlab.com/505BadGroupName/assemblyvirtualmachinepackage",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "^5.1.0",
+    "electron-prompt": "^1.3.0",
+    "ssh2": "^0.8.4"
+  },
+  "package-deps": [
+    "flex-tool-bar",
+    "tool-bar",
+    "platformio-ide-terminal",
+    "umsl-atom-theme"
+  ]
+}
