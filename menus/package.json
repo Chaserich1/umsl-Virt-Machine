@@ -12,10 +12,10 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "package",
+          "label": "UMSL Virtual Machine",
           "submenu": [
             {
-              "label": "Toggle",
+              "label": "Enable",
               "command": "package:toggle"
             }
           ]
