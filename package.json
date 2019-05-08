@@ -21,7 +21,6 @@
     "flex-tool-bar",
     "tool-bar",
     "platformio-ide-terminal",
-    "umsl-atom-theme",
-    "umsl-toolbar"
+    "umsl-atom-theme"
   ]
 }
